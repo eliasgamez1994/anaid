@@ -1,0 +1,39 @@
+body {
+
+    background-color: aliceblue;
+    background-image: url(./img/3599108.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+
+}
+
+#caja {
+
+    border: 5px solid rgb(0, 0, 0);
+    padding: 5px;
+    background-color: rgb(228, 114, 133);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 50px;
+    text-decoration: underline white;
+
+
+}
+
+h2 {
+
+    color: rgb(116, 116, 116);
+    background-color: aqua;
+    border: 3px solid pink;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    word-spacing: 40px;
+    letter-spacing: 3px;
+    color: black;
+    font-size: xx-large;
+}
